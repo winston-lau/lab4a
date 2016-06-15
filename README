@@ -2,4 +2,14 @@ NAME: Winston Lau
 EMAIL: winstonlau99@gmail.com
 ID: 504934155
 
+BeagleBone Serial Number: BBGW18041945
+MAC Address: 2c:f7:f1:06:96:98
 
+Files: 
+my_beaglebone.jpg: picture of me holding my assembled BeagleBone
+connected.png: snapshot of my beaglebone connection and the new hostname
+copy.png: snapshot of use of pscp to copy the helloWorld.c from laptop to beaglebone
+build_run.png: snapshot of build and run of helloWorld.c 
+git.png: snapshot of cloning of my lab4a repo 
+Makefile: makefile that creates the distribution tarball
+README: file describing other files and beaglebone serial number and MAC Address
